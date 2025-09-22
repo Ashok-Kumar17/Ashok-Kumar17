@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/ashokkumarmenna](https://www.linkedin.com/in/ashok-kumar-meena-56a2b42a5/)
-- GitHub: [@ashokkumarmenna](https://github.com/Ashok-Kumar17)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashok-kumar-meena-56a2b42a5/)
+- GitHub: [GitHub](https://github.com/Ashok-Kumar17)
 
 ---
