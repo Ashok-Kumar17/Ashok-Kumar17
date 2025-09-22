@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumar Meena</h1>
-<h3 align="center">BTech @ IIT Madras | Embedded Systems & Robotics | Firmware Developer @ Ather | Team Anveshak</h3>
+<h3 align="center">B.Tech EE @ IIT Madras | Firmware & Embedded Systems | Software Development | Ex-Ather Energy Intern</h3>
 
 ---
 
 ### 🚀 Interests & Work
 - 🔧 Currently working on ESP32 projects (IMU, GPS, CAN)
-- ⚡ Firmware Developer Intern @ Ather Energy
+- ⚡ Ex Firmware Developer Intern @ Ather Energy
 - 🤖 Team Anveshak – Electrical & Software Module
 - 🧠 Exploring autonomy, sensor fusion, and real-time systems
 
