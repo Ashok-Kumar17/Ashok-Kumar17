@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
+- 🤖 Team Head of Anveshak, Space Robotics of IIT Madras
 - 🔧 Working on ESP32 projects (IMU, GPS, CAN)
 - ⚡ Former Firmware Developer Intern at Ather Energy
-- 🤖 Part of Team Anveshak – Electrical & Software Module
 - 🧠 Interested in autonomy, sensor fusion, and real-time systems
 
 ---
