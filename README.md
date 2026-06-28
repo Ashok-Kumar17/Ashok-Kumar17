@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ashok Kumar Meena</h1>
-<h3 align="center">B.Tech EE @ IIT Madras | Firmware & Embedded Systems | Software Development</h3>
-
+<h3 align="center">B.Tech EE @ IIT Madras | Embedded Systems & Backend Development</h3>
 <p align="center">
-  Ex-Firmware Intern @ Ather Energy • Team Anveshak (Electrical & Software)
+  Firmware Developer @ Ather Energy • Team Lead, Team Anveshak (Mars Rover, IIT Madras)
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🤖 Team Head of Anveshak, Space Robotics of IIT Madras
-- 🔧 Working on ESP32 projects (IMU, GPS, CAN)
-- ⚡ Former Firmware Developer Intern at Ather Energy
-- 🧠 Interested in autonomy, sensor fusion, and real-time systems
+- 🤖 Team Lead, Team Anveshak — Space Robotics, IIT Madras (40+ member team)
+- ⚡ Former Firmware Developer Intern @ Ather Energy — CAN/UDS, embedded C/C++
+- 🧰 Building backend systems (Django REST) alongside embedded firmware
+- 🧠 Currently building an LLM agent that diagnoses CAN bus faults via function-calling
+- 🔧 ESP32 projects: IMU logging, GPS tracking, CAN communication
+
+---
+
+### 🔍 Featured Project
+**[CAN Diagnostic Assistant](https://github.com/Ashok-Kumar17/can-diagnostic-assistant)** — an LLM agent that reasons over decoded CAN signals and DTC fault codes via function-calling tools (not RAG) to diagnose real vehicle faults from plain-English questions.
 
 ---
 
@@ -20,9 +25,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashok-Kumar17&show_icons=true&theme=dark&hide_title=true" height="160"/>
 </p>
 
 ---
