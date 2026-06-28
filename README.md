@@ -32,12 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashok-Kumar17&show_icons=true&theme=dark&hide_title=true" height="160"/>
-</p>
 
 ---
 
