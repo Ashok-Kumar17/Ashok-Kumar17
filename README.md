@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🤖 Team Lead, Team Anveshak — Space Robotics, IIT Madras (40+ member team)
+- 🤖 Team Lead, Team Anveshak — Space Robotics, IIT Madras (70+ member team)
 - ⚡ Former Firmware Developer Intern @ Ather Energy — CAN/UDS, embedded C/C++
 - 🧰 Building backend systems (Django REST) alongside embedded firmware
 - 🧠 Currently building an LLM agent that diagnoses CAN bus faults via function-calling
